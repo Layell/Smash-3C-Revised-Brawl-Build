@@ -1,0 +1,5 @@
+Make pato in selchar
+
+Selmap pato is in MiscData20
+
+Make sure to rename the "playericon1M" parts in each pato with each player

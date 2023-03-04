@@ -1,0 +1,1185 @@
+############################################################################
+# Brawl3C RSBE01.txt    						   #
+#                        						   #
+# Requires GCTRealMate and the source folder provided to assemble the GCT! #
+############################################################################
+
+SD Root=/brawls3c/
+* 06406920 0000000B
+* 2F627261 776C7333
+* 632F0000 00000000
+
+Brawl3C File Patch
+* 0403A430 9805FFFF
+* 0403A43C 60000000
+* 0403A8E0 9805FFFF
+* 0403A8EC 60000000
+* 0403AF40 9805FFFF
+* 0403AF4C 60000000
+* 0403B960 9805FFFF
+* 0403B96C 60000000
+* 0403BDDC 9805FFFF
+* 0403BDE8 60000000
+* 0403CB1C 9805FFFF
+* 0403CB28 60000000
+* E0000000 80008000
+* 225664EC 00000000
+* 0401BFE0 4858BE20
+* 065A7E00 000000C0
+* 38A00067 38810020
+* 9421FE80 90810008
+* 3C808040 60846920
+* 38610010 3D80803F
+* 618CA340 7D8903A6
+* 4E800421 38A07066
+* B0A1001A 38A0007F
+* 3861001C 80810008
+* 4E800421 38A00068
+* 38810010 38610188
+* 90810188 9421FF80
+* BC410008 3D808001
+* 618CCBF4 7D8903A6
+* 4E800421 7C7C1B78
+* 2C030000 4082000C
+* 38210080 48000030
+* B8410008 38210080
+* 80810008 386101A0
+* 90610188 38610188
+* 3D808001 618CC144
+* 7D8903A6 4E800421
+* 7C7C1B78 38210180
+* 3D808001 618CC054
+* 7D8903A6 4E800420
+* 040223E0 48585BC0
+* 065A7FA0 00000028
+* 80010044 3C608001
+* 6063581C 7C001800
+* 4082000C 7FDDC850
+* 3BDEFFE0 93DB0008
+* 4BA7A424 00000000
+* 0401CD0C 4858B1F4
+* 065A7F00 00000038
+* 2C030000 4182000C
+* 4BA7DD51 4BA74E04
+* 80780008 2C030000
+* 41820014 8118000C
+* 7C634214 7C7B1850
+* 48000008 8078000C
+* 4BA74DE0 00000000
+* 043EE9D8 48000014
+* 043EEBD4 48000014
+* 043D8B9C 48000018
+* 043E9B4C 38600000
+* 043E9D38 38600000
+* 043D8C80 60000000
+* 80000000 80406920
+* 80000001 805A7C00
+* 8A000A01 00000000
+* 065A7C0A 00000002
+* 70660000 00000000
+* 80000001 805A7B00
+* 8A000A01 00000000
+* 065A7B0A 00000009
+* 70662F73 6F756E64
+* 2F000000 00000000
+* 041C6CE0 483E0D20
+* 065A7A00 00000028
+* 9421FF80 BC410008
+* 3C60805A 60637B13
+* 4BE52931 B8410008
+* 38210080 4BE52995
+* 4BC1F2C4 00000000
+* 065A7900 00000078
+* 9421FF80 7C0802A6
+* 9001000C BC810010
+* 9421FF00 7C872378
+* 54B2BA7E 7CD33378
+* 38800000 9081000C
+* 90810010 90610014
+* 90810018 3880FFFF
+* 9081001C 38610020
+* 90610008 7CE43B78
+* 38A00080 4BE529F5
+* 38610008 4BA752A1
+* 60000000 80210000
+* B8810010 8001000C
+* 7C0803A6 80210000
+* 4E800020 00000000
+* C23E399C 00000002
+* 80BC0020 7CA59214
+* 3A400000 00000000
+* C23DBAEC 00000003
+* 800302A4 2C130000
+* 41820008 7E609B78
+* 3A600000 00000000
+* C21CDF7C 00000014
+* 818C0014 9421FF80
+* BC410008 7C882378
+* 3C60804D 3C80805A
+* 60847B00 7CC53378
+* 38C04200 80E40080
+* 2C070000 4082001C
+* 3D80805A 618C7900
+* 7D8903A6 4E800421
+* 2C030000 41820010
+* B8410008 80210000
+* 48000048 70A501FF
+* 3868FFFF 3C80804C
+* 6084FFFF 7C842A14
+* 38A04001 38A5FFFF
+* 8C040001 9C030001
+* 2C050000 4082FFF0
+* B8410008 80210000
+* 3D80801C 618CDFA0
+* 7D8903A6 4E800420
+* 60000000 00000000
+* C21CCF90 0000000A
+* 9421FF80 BC410008
+* 7FE3FB78 3C80805A
+* 60847B00 38A00000
+* 38C04000 3D80805A
+* 618C7900 7D8903A6
+* 4E800421 90640080
+* 807F0008 907A0014
+* 907A005C 907A0074
+* B8410008 80210000
+* 807F0000 00000000
+* E0000000 80008000
+* C201CD9C 00000006
+* 3D80804D 7C1D6000
+* 41800020 618C4200
+* 7C1D6000 40800014
+* 3D808001 618CCDA4
+* 7D8903A6 4E800420
+* 4CC63182 00000000
+* 066FF9A0 00000014
+* 2F6D656E 75322F73
+* 635F7469 746C652E
+* 70616300 00000000
+* 066FB248 00000017
+* 2F6D656E 75322F6D
+* 755F6D65 6E756D61
+* 696E2E70 61630000
+* 06B2C7F8 00000017
+* 2F6D656E 75322F69
+* 665F6164 765F6D6E
+* 67722E70 61630000
+* 80000000 80406920
+* 80000001 805A7D18
+* 045A7D00 805A7D18
+* 065A7D18 0000001D
+* 2F627261 776C7333
+* 632F7066 2F736678
+* 2F253033 58002E73
+* 61776E64 00000000
+* 045A7D10 919B6600
+* C21C8370 00000055
+* 9421FF80 BC610008
+* 3C60805A 60637000
+* 94230008 7C611B78
+* 3B5A0007 3C60805A
+* 60637D00 9343FFE0
+* 38800000 9081000C
+* 90810010 93610014
+* 90810018 3880FFFF
+* 9081001C 38610024
+* 90610008 3C80805A
+* 60847D18 38BAFFF9
+* 3D80803F 618C89FC
+* 7D8903A6 4E800421
+* 2C1A0053 41A000AC
+* 2C1A0077 41A100A4
+* 7CA42B78 3CA05F00
+* 90A10020 38810020
+* 38610024 3D80803F
+* 618CA384 7D8903A6
+* 4E800421 38610024
+* 3D808053 618CF000
+* 808C001C 80AC0004
+* 7C846214 7C842A14
+* 38610024 4E800421
+* 3C80805A 60847D2E
+* 4E800421 38810024
+* 7F63DB78 38A00000
+* 38C00000 3D80805A
+* 618C7900 7D8903A6
+* 4E800421 2C030000
+* 41A2006C 38610024
+* 90610008 3C80805A
+* 60847D18 38BAFFF9
+* 3D80803F 618C89FC
+* 7D8903A6 4E800421
+* 38610024 3D80803F
+* 618CA384 7D8903A6
+* 3C80805A 60847D2E
+* 4E800421 38810024
+* 7F63DB78 38A00000
+* 38C00000 3D80805A
+* 618C7900 7D8903A6
+* 4E800421 2C030000
+* 40820114 3C60805A
+* 60637D00 8081FE90
+* 9083FFD0 7F64DB78
+* 3884FFFD 3CC05257
+* 60C65344 38840004
+* 81240000 7C093000
+* 4082FFF4 7C9B2050
+* 9083FFC0 3D2090E6
+* 61290F10 81290000
+* 7D244B78 7C862378
+* 38C60008 80A4002C
+* 7C842A14 38840008
+* 3CE0805A 60E77D00
+* 8167FFE0 38840008
+* 80A40000 7CA53214
+* 80E50000 7C075800
+* 4082FFEC 7D244B78
+* 80C50024 7CA43214
+* 38A50008 80E50000
+* 38A50008 7F63DB78
+* 38630009 80C50000
+* 7CC43214 38E7FFFF
+* 81430000 91460008
+* 81430004 91460014
+* 81430008 91460018
+* 3863000C 38A50008
+* 2C070000 4181FFD0
+* 3C60805A 60637D00
+* 8083FFD0 80A3FFC0
+* 7C852050 7F66DB78
+* 7CE62A14 89070000
+* 99060000 38C60001
+* 38E70001 3884FFFF
+* 2C040000 4181FFE8
+* 38600000 2C030000
+* 3CA0805A 60A57D00
+* 9065FFF0 3C20805A
+* 60217000 80210008
+* B8610008 38210080
+* 7D8903A6 4182000C
+* 4E800421 48000008
+* 7CE33B78 00000000
+* C21C8658 00000007
+* 3E00805A 62107D00
+* 8230FFF0 2C110000
+* 40820010 7CE33B78
+* 3B200000 41820014
+* 4E800421 3A400001
+* 9250FFF0 60000000
+* 60000000 00000000
+* C23CB3D8 00000004
+* 546302D7 41820014
+* 38600001 3C808058
+* 60840300 90640000
+* 2C1D0000 00000000
+* C23EEE18 00000007
+* 80610014 54630253
+* 41820028 38000009
+* 8061000C 5463C43E
+* 38630001 1CC30400
+* 3C60803E 6063EE58
+* 7C6903A6 4E800420
+* 80A1000C 00000000
+* C23CB620 00000008
+* 3D60805A 616B9350
+* 816B0000 2C0B0000
+* 41820024 2C040040
+* 4182001C 39600001
+* 91610008 3D60803C
+* 616BB410 7D6903A6
+* 4E800420 9421FFC0
+* 60000000 00000000
+* C23CB4AC 00000003
+* 38C00000 2C160000
+* 41820008 38C00001
+* 60000000 00000000
+* C23CB5D4 00000009
+* 807C001C 2C030001
+* 806DCE1C 41820034
+* 80030000 90190000
+* 80030004 90190004
+* 80030008 90190008
+* 8003000C 9019000C
+* 3C60803C 6063B5E0
+* 7C6903A6 4E800420
+* 60000000 00000000
+* 043EEA20 48191905
+* 043EEC1C 48191709
+* 06580324 00000028
+* 3F008058 63180300
+* 83180000 2C180000
+* 4182000C 7CB92B78
+* 48000008 7F2531D6
+* 548006FF 4E800020
+* 043EEB6C 481917E1
+* 043EED68 481915E5
+* 0658034C 00000024
+* 3C608058 60630300
+* 80630000 2C030000
+* 4182000C 3B390001
+* 48000008 7F39BA14
+* 4E800020 00000000
+* 043CBA24 481B48E1
+* 043CBD60 481B45A5
+* 06580304 00000020
+* 3EC08058 62D60300
+* 82D60000 2C160000
+* 41820008 7C802378
+* 7C040040 4E800020
+* C23EE0BC 00000003
+* 38000000 3C60805A
+* 60639350 90030000
+* 3C60805A 00000000
+* 065A74DF 00000018
+* 54485050 6C617965
+* 724F7065 6E28293A
+* 2025730A 00000000
+* C207BE08 0000000C
+* 9421FFE0 7C0802A6
+* 90010024 93E1001C
+* 93C10018 7C7F1B78
+* 7C9E2378 3C60805A
+* 606374DF 7FE4FB78
+* 3D80801D 618C8600
+* 7D8903A6 4E800421
+* 7FE3FB78 7FC4F378
+* 80010024 83E1001C
+* 83C10018 7C0803A6
+* 38210020 7FE4FB78
+* 60000000 60000000
+* 0407BE0C 4852B4F5
+* 0407ED5C 485285A5
+* 0407EE60 485284A1
+* 065A7300 00000090
+* 9421FF70 BC810008
+* 7C0802A6 90010094
+* 7C7A1B78 7C9B2378
+* 9421FF80 7C641B78
+* 3C60805A 60637C0C
+* 38A00040 4BE53015
+* 38610008 3C808059
+* 6084C598 4BE52F45
+* 3C80805A 60847C01
+* 38A00080 4BE53065
+* 3C808059 6084C590
+* 4BE44B61 3C80805A
+* 906474F8 38210080
+* 2C030000 40820010
+* 7F43D378 7F64DB78
+* 4BC4EF01 B8810008
+* 80010094 38210090
+* 7C0803A6 4E800020
+* 0407BEA0 4852B661
+* 0407BF58 4852B5A9
+* 0407C024 4852B4DD
+* 0407C044 4852B4BD
+* 0407E270 48529291
+* 0407C6AC 4852AE55
+* 0407C770 4852AD91
+* 0407ED80 48528781
+* 0407EE84 4852867D
+* 065A7500 00000100
+* 9421FFD0 7C0802A6
+* 90010034 BF410008
+* 7C7A1B78 7C9B2378
+* 7CBC2B78 7CDD3378
+* 7CFE3B78 3C60805A
+* 806374F8 2C030000
+* 41820020 3C608049
+* 6063DDD0 7F64DB78
+* 7F85E378 7FA6EB78
+* 48000045 4800002C
+* 7F43D378 7F64DB78
+* 7F85E378 7FA6EB78
+* 7FC7F378 2C070002
+* 4182000C 4BC4F19D
+* 48000008 4BC4F27D
+* BB410008 80010034
+* 38210030 7C0803A6
+* 4E800020 9421FF80
+* 7C0802A6 90010084
+* BC810008 7C7A1B78
+* 7C9B2378 7CBC2B78
+* 7CDD3378 2C1D0000
+* 41820020 3C60805A
+* 806374F8 7FA4EB78
+* 38A00000 4BE44925
+* 2C030000 40820020
+* 7F63DB78 38800001
+* 7F85E378 3CC0805A
+* 80C674F8 4BE440FD
+* 48000004 B8810008
+* 80010084 7C0803A6
+* 38210080 4E800020
+* 0407C19C 4852B065
+* 0407BF0C 4852B2F5
+* 0407C054 4852B1AD
+* 0407EE08 485283F9
+* 0407EF28 485282D9
+* 0407EB98 48528669
+* 065A7200 00000058
+* 9421FF80 7C0802A6
+* 90010084 BC810008
+* 7C7A1B78 3C80805A
+* 800474F8 2C000000
+* 41820018 3C60805A
+* 806374F8 4BE44C61
+* 3C80805A 906474F8
+* 7F43D378 B8810008
+* 4BC4F2E5 80010084
+* 7C0803A6 38210080
+* 4E800020 60000000
+
+################################################################################
+[Legacy TE] sc_selmap.pac can be 3 times larger because I said so V2 [DukeItOut]
+#
+# V2: Altered code to be more flexible and stable
+################################################################################
+HOOK @ $806BF22C
+{
+  sub r5, r0, r3
+  lis r12, 0x12;   ori r12, r12, 0x8760;  cmplw r3, r12;   bne- finish	# Expected file size
+checkIfMenuResource:
+  lwz r12, 0x20(r27); lwz r0, 0xC(r12)	# Get the memory size of the heap being used
+  lis r12, 0x8042; lwz r12, 0x2384(r12)	# Get the memory size of MenuResource
+  cmpw r0, r12; bne finish		# Check if they match
+  subis r5, r5, 0x20			# Shift back 0x200000
+finish:
+  lbz r0, 0x1C(r27); rlwinm. r0, r0, 26, 31, 31	# Reset cache condition check
+}
+
+############################################################
+[Legacy TE] Always use PACs instead of PCS files [DukeItOut]
+############################################################
+op NOP @ $8084CB40
+
+Default Settings Modifier: stock mode; time 8; stock 3; etc.
+* 24494a98 80000000
+* 20523300 00000000
+* 04523300 deadbeef
+* 42000000 90000000
+* 0417f360 00000108
+* 0417f364 03000a00
+* 0417f368 08010101
+* 0417f36c 01000000
+* e0000000 80008000
+
+##################################################
+[Legacy TE] Boot Directly to CSS v4  [PyotrLuzhin]
+##################################################
+CODE @ $806DD5F8
+{
+	addi r4, r21, 0x1B54; li r5, 0
+}
+HOOK @ $8002D3A0
+{
+  mr r4, r27
+  lis r5, 0x8042;	ori r5, r5, 0xA40
+  cmpw r4, r5;		bne- %END%
+  li r5, 0x3
+  stb r5, 0x2A5(r28);	stb r5, 0x2B1(r28)
+  li r30, 0x0
+}
+op b 0x10 @ $80078E14
+
+#########################################################
+[Legacy TE] Masquerade Costume Flags V2 [ds22, DukeItOut]
+#########################################################
+op subi r0, r31, 0x32 @ $8084CD48
+* 02AD817C 003200FF
+
+###########################################################################################
+[Legacy TE] Set Masquerade Costume Count to Zero to have up to 50 costumes v1.1 [DukeItOut]
+###########################################################################################
+HOOK @ $8084CFFC
+{
+  andi. r12, r0, 0xFFFE
+  beq- masqueradeBypass
+  lis r12, 0x8084
+  ori r12, r12, 0xD004
+  mtctr r12
+  bctr 
+masqueradeBypass:
+  and. r0, r3, r0
+}
+op rlwinm r5, r23, 0, 26, 31 @ $8084D00C
+op rlwinm r3, r0, 0, 26,  31 @ $8081C3D4
+byte 0x34		     @ $8045A374	// '4'
+half 0xBB9 		     @ $800E1F0E
+HOOK @ $800E1F24
+{
+  	cmpwi r31, 0x2D;   bne+ notWarioman
+ 	li r3, 9000; b %END%
+notWarioman:
+ 	mulli r3, r3, 50
+}
+HOOK @ $800E8B08
+{
+  	cmpwi r5, 0x35;   bne+ notWarioman
+ 	li r3, 9000; b %END%
+notWarioman:
+ 	mulli r3, r3, 50
+}
+HOOK @ $800E8C04
+{
+  	cmpwi r5, 0x35;   bne+ notWarioman
+ 	li r3, 9000; b %END%
+notWarioman:
+ 	mulli r3, r3, 50
+}
+op rlwinm r6, r23, 0, 26, 31 @ $8084D518
+op rlwinm r6, r23, 0, 26, 31 @ $8084D814
+op rlwinm r6, r23, 0, 26, 31 @ $8084DAF0
+op rlwinm r5, r23, 0, 26, 31 @ $8084DED4
+op rlwinm r0, r23, 0, 26, 31 @ $8084CC28
+op rlwinm r5, r23, 0, 26, 31 @ $8084CB6C
+HOOK @ $800E1F24
+{
+  	cmpwi r31, 0x2D; # WARIO ->MAN<- 
+	bne+ notWAH
+WAH: 	li r3, 9000	 # EH HEH
+  	b %END%
+notWAH:
+ 	mulli r3, r3, 50
+}
+op rlwinm r0, r6, 2, 26, 29 @ $8082A830
+op rlwinm r0, r6, 2, 26, 29 @ $8082AB20
+op rlwinm r0, r6, 0, 28, 31 @ $8082AB3C
+op rlwinm r0, r6, 0, 28, 31 @ $8082AB5C
+op rlwinm r0, r6, 0, 28, 31 @ $8082AB6C
+op rlwinm r0, r6, 0, 28, 31 @ $8082AB8C
+op rlwinm r0, r6, 0, 28, 31 @ $8082ABAC
+op rlwinm r0, r6, 0, 28, 31 @ $8082ABBC
+op rlwinm r0, r6, 0, 28, 31 @ $8082ABDC
+op rlwinm r0, r6, 0, 28, 31 @ $8082ABFC
+op rlwinm r0, r6, 0, 28, 31 @ $8082AC0C
+op rlwinm r0, r6, 0, 28, 31 @ $8082A84C
+op rlwinm r0, r6, 0, 28, 31 @ $8082A86C
+op rlwinm r0, r6, 0, 28, 31 @ $8082A87C
+op rlwinm r0, r6, 0, 28, 31 @ $8082A89C
+op rlwinm r0, r6, 0, 28, 31 @ $8082A8BC
+op rlwinm r0, r6, 0, 28, 31 @ $8082A8CC
+op rlwinm r0, r6, 0, 28, 31 @ $8082A8EC
+op rlwinm r0, r6, 0, 28, 31 @ $8082A90C
+op rlwinm r0, r6, 0, 28, 31 @ $8082A91C
+byte 50 		    @ $80692DA7
+byte 50 		    @ $80692507
+byte[4] 0x30, 0x34, 0x64, 0 @ $806A17D8
+
+###################################################################
+[Legacy TE] Upload Character Masquerade Data At Startup [DukeItOut]
+###################################################################
+string "/info/costumeslots/%02d.masq" @ $80546FE0
+HOOK @ $8002D508
+{
+  stwu r1, -0xF0(r1)
+  mflr r0
+  stw r0, 0xF4(r1)
+  stw r31, 0x0C(r1)
+  stw r30, 0x10(r1)
+  stw r29, 0x14(r1)
+  stw r28, 0x18(r1)
+  stw r3, 0x24(r1)
+  stw r4, 0x28(r1)
+  stw r5, 0x2C(r1)
+  lis r31, 0x8045			# \
+  ori r31, r31, 0x5450		# /
+  stw r31, 0x1C(r1)
+  lis r31, 0x8054			# \ Where to write the masquerade files to
+  ori r31, r31, 0x7000		# /
+  stw r31, 0x20(r1)
+  li r29, 0x0
+
+loc_0x44:
+  addi r3, r1, 0x60
+  lis r4, 0x8054  			# \ Pointer to the string, above.
+  ori r4, r4, 0x6FE0		# /
+  mr r5, r29
+  lis r12, 0x803F  			# \
+  ori r12, r12, 0x89FC		# | sprintf
+  mtctr r12					# |
+  bctrl 					# /
+  lwz r5, 0x20(r1)
+  addi r3, r1, 0x30
+  addi r4, r1, 0x60
+  li r6, 0x0
+  li r7, 0x0
+  lis r12, 0x8002			# \
+  ori r12, r12, 0x239C		# | set the read parameter
+  mtctr r12					# |
+  bctrl 					# /
+  addi r3, r1, 0x30
+  lis r12, 0x8001			# \
+  ori r12, r12, 0xBF0C		# | load the file
+  mtctr r12					# | 
+  bctrl 					# /
+  lwz r30, 0x1C(r1)
+  lwz r31, 0x20(r1)
+  cmplwi r29, 39			# clone engine slots skip the below
+  bgt+ loc_0xB4
+  stwu r31, 0x10(r30)		# Store the address in the character information area
+  stw r30, 0x1C(r1)
+loc_0xB4:
+  addi r31, r31, 102		# Each file is 102 bytes
+  stw r31, 0x20(r1)
+  addi r29, r29, 0x1
+  cmplwi r29, 42			# 42 characters in total + Pokemon Trainer's slot
+  ble+ loc_0x44
+  lwz r3, 0x24(r1)
+  lwz r4, 0x28(r1)
+  lwz r5, 0x2C(r1)
+  lwz r0, 0xF4(r1)
+  lwz r31, 0x0C(r1)
+  lwz r30, 0x10(r1)
+  lwz r29, 0x14(r1)
+  lwz r28, 0x18(r1)
+  mtlr r0
+  addi r1, r1, 0xF0
+  lbz r0, 0x278(r3)			# Original operation
+}
+
+##################################################
+Costume PAC files can be compressed V2 [DukeItOut]
+##################################################
+HOOK @ $8084CB10
+{
+	li r26, 1			# Force it to think there is compression
+	li r15, -0xC0DE 	# Act as an identifier
+}
+HOOK @ $800453F0
+{
+	mr r5, r22			# Original operation
+	cmpwi r15, -0xC0DE 	# Identifier check for costumes
+	bne+ %END%
+	li r15, -1
+	lis r3, 0x8004		# \
+	ori r3, r3, 0x5448	# | Force costume file to not clone.
+	mtctr r3			# | This avoids a bug where uncompressed costumes can freeze when cloning. 
+	bctr				# / 
+}
+op b 0x20 	@ $8084D068
+half 0x6163	@ $80B0A652
+HOOK @ $80015CAC
+{
+  mr r22, r3
+  cmplwi r22, 0x4352
+  bne+ %END%
+Decompress:
+  lis r12, 0x8001
+  ori r12, r12, 0x5D0C
+  mtctr r12
+  bctr 
+}
+
+#############################################################################
+Character Costumes are decompressed in the Network Heap [Kapedani, DukeItOut]
+#
+# This avoids a conflict where final smashes and compressed costumes
+# attempted to use the same memory allocation, causing crashes.
+#############################################################################
+op li r9, 6 @ $8084FE2C
+# The following gets rid of the pause/endgame buffer
+# The game can allocate a new one when it needs to. 
+HOOK @ $8084FDB8			
+{
+	lis r3, 0x805A
+	lwz r3, 0x90(r3)
+	lis r12, 0x8003			
+	ori r12, r12, 0x7BE4
+	mtctr r12				
+	bctrl					
+	mr r3, r26		# Original operation
+}
+
+
+####################################################
+Bowser and Giga Bowser Can Be Compressed [DukeItOut]
+####################################################
+op NOP @ $808275B4
+byte 0x4C @ $8081DF63	# Used by Bowser
+byte 0x6C @ $8081DF87	# Used by Giga Bowser!
+word 0 @ $80AD8028
+
+#####################################################################
+[Legacy TE] Team Glow CSS Toggle [PyotrLuzhin, Fracture, Yohan1044]
+#####################################################################
+* C26895F4 00000004
+* 807B01F4 886305C8
+* 2C030000 4182000C
+* 38600000 987B01C4
+* 7F63DB78 00000000
+* C268A498 0000000B
+* 3D809019 888CA0E4
+* 2C00001F 40820024
+* 2C0400CC 4182001C
+* 2C040000 40810020
+* 38800000 38A00001
+* 38000020 48000018
+* 38800001 38A00000
+* 4800000C 38800000
+* 38A00000 988CA0E4
+* 98ACA0E5 5404D97E
+* 60000000 00000000
+* C2689B90 00000003
+* 881805C8 2C000000
+* 4182000C 3D809019
+* 880CA0E4 00000000
+* C269A2E0 00000003
+* 8B6805C8 2C1B0000
+* 4182000C 3D809019
+* 8B6CA0E4 00000000
+* C269A3F0 00000003
+* 8B6805C8 2C1B0000
+* 4182000C 3D809019
+* 8B6CA0E4 00000000
+* C26974D0 00000003
+* 2C1B0000 41820010
+* 3D809019 898CA0E4
+* 2C0C0000 00000000
+* C2684968 00000003
+* 881A05C8 2C000000
+* 4182000C 3D809019
+* 880CA0E4 00000000
+* C26D5C28 00000003
+* 3D809019 898CA0E5
+* 2C0C0001 41820008
+* 981C000A 00000000
+* C281F4B8 00000011
+* 39610058 3D809019
+* 898CA0E5 2C0C0001
+* 40820070 7C0802A6
+* 90020000 9421FF80
+* BC610010 80DF0028
+* 88FF000A 2C0700FF
+* 40820008 38E00000
+* 1CE70008 7CFF3A14
+* 80670034 38A00010
+* 38800088 80C60014 #the 88 in this line is the base gfx id, it adds 1 or 2 for the other teams
+* 7C843214 80630060
+* 806300D8 80630088
+* 81830000 818C0054
+* 7D8903A6 4E800421
+* 80020000 B8610010
+* 80210000 7C0803A6
+* 60000000 00000000
+* C268EEF4 00000005
+* FC20F890 3D809019
+* 898CA0E5 2C0C0001
+* 40820010 3D8040C0
+* 91820000 C0220000
+* 60000000 00000000
+* C268A494 00000003
+* 889F05CB 899F05C8
+* 7C846278 989F05CB
+* 7FE3FB78 00000000
+* C26846E0 00000004
+* 888305CB 3CA0805A
+* 80A500E0 80A50010
+* 98850030 9421FF10
+* 60000000 00000000
+* C2684480 00000004
+* 3C80805A 808400E0
+* 80840010 88840030
+* 988305CB 9421FFD0
+* 60000000 00000000
+* C2686C04 00000006
+* 3C60805A 806300E0
+* 80630010 88830030
+* 88A30033 3C609018
+* 6063A0E4 98830001
+* 7C842A78 98830000
+* 889D05C8 00000000
+
+####################################################################################
+[Legacy TE] CSS keeps character choice for inactive ports between matches [Fracture]
+####################################################################################
+HOOK @ $80689B18
+{
+  	stw r0, -4(r1); mflr r0
+  	stw r0, 4(r1);  mfctr r0
+  	stw r0, -8(r1)
+  	stwu r1, -0x84(r1)
+  	stmw r3, 8(r1)
+  	lwz r5, 0x1B8(r26)
+  	andi. r5, r5, 0xFFFE
+  	cmpwi r5, 0x28; beq- skip
+  	lwz r3, 160(r30)
+  	li r4, 0x0
+  	lis r0, 0x8069;  ori r0, r0, 0xECAC;  mtctr r0;  bctrl 
+  	mr r3, r30
+  	lis r0, 0x8069;  ori r0, r0, 0xD1E8;  mtctr r0;  bctrl 
+  	mr r3, r26
+  	lwz r4, 440(r26)
+  	li r5, 0xC0DE;	 andi. r5, r5, 0xFFFF
+  	lis r0, 0x8069;  ori r0, r0, 0x6F60;  mtctr r0;  bctrl 
+skip:
+  	lmw r3, 8(r1)
+  	addi r1, r1, 0x84
+  	lwz r0, -8(r1);		mtctr r0
+  	lwz r0, 4(r1);		mtlr r0
+  	lwz r0, -4(r1);		mr r3, r24
+}
+HOOK @ $80696F8C
+{
+  	cmplwi r5, 0xC0DE
+  	bne- skip
+  	lwz r29, 0x1BC(r3)
+  	bc 20, 20, %END%
+skip:
+  	li r29, 0x0
+}
+
+#########################################################################################
+[Legacy TE] Hold L/R to inc/dec 1/4 of a character's costume count on the CSS [DukeItOut]
+#########################################################################################
+op sub r26, r26, r3 	@ $8069A274
+op add r26, r26, r3 	@ $8069A384
+op b 0x8		@ $8069BE34
+HOOK @ $8069BE30
+{
+  	lis r27, 0x8069
+  	ori r27, r27, 0xBE38
+  	lwz r29, 8(r1)
+  	andi. r3, r29, 0x60	// if either L (40) or R (20) are held
+  	li r3, 0x0
+  	beq- notSoFast
+  	li r3, 0x1		// initiate the status to allow rapid scrolling
+notSoFast:
+  	stw r3, 0(r27)		// which is stored at 8069BE38
+  	lwz r29, 20(r1)
+  	and r3, r29, r0
+  	lwz r27, 12(r1)
+  	neg r0, r3
+}
+HOOK @ $8069A37C
+{
+  	lis r6, 0x8069
+  	ori r6, r6, 0xBE38
+  	lwz r6, 0(r6)
+  	cmplwi r6, 1
+  	beq- hastyScroll
+  	subic. r26, r26, 0x1
+  	b %END%
+hastyScroll:
+  	li r6, 0x4	
+ 	divw r6, r3, r6		// jump rate = 1/r6 * total
+  	subc. r26, r26, r6
+}
+HOOK @ $8069A268
+{
+  	lis r6, 0x8069
+  	ori r6, r6, 0xBE38
+  	lwz r6, 0(r6)
+  	cmplwi r6, 1
+  	beq- hastyScroll
+  	addi r26, r26, 0x1
+  	b %END%
+hastyScroll:
+  	li r6, 0x4	
+  	divw r6, r3, r6		// jump rate = 1/r6 * total
+  	add r26, r26, r6
+}
+
+#############################################
+[Legacy TE] Default CPU level is 9 v2 [codes]
+#############################################
+HOOK @ $8004C8B4
+{
+  li r29, 8
+  stb r29, 0xD7(r24)
+}
+HOOK @ $8004C908
+{
+  stb r29, 0x1EB(r24)
+  li r29, 0x2
+}
+op li r0, 8 @ $8004D058
+
+[Project+] Independent Subroutines [Mawootad]
+* C277CFB4 00000021
+* 2C000005 41A00014
+* 2C000007 41820014
+* 41810008 3803FFFB
+* 2C000003 480000E8
+* 3B600000 7FC3F378
+* 38000000 7FC3F378
+* 90010080 38810080
+* 98010084 7F65DB78
+* 819E0000 818C0020
+* 7D8903A6 4E800421
+* 2C030000 41820020
+* 88810084 28040001
+* 41820014 80610080
+* 80030000 2C000000
+* 41A2000C 38600001
+* 4800007C 2C1B0001
+* 41820010 3B7B0001
+* 83830004 4BFFFF98
+* 83630004 807D0020
+* 7C7D1B78 81830000
+* 818C0018 7D8903A6
+* 4E800421 7C7F1B78
+* 3BC00000 48000034
+* 819D0010 387D0010
+* 7FC4F378 818C0010
+* 7D8903A6 4E800421
+* 80030008 7C1C0000
+* 40A2000C B363000C
+* 48000010 3BDE0001
+* 7C1EF800 4180FFCC
+* 38600001 3D808078
+* 398CD56C 7D8903A6
+* 4E800420 00000000
+* C277d098 00000006
+* 7C1F0378 819E0000
+* 7FC3F378 818C0010
+* 7D8903A6 4E800421
+* 2C030005 41A0000C
+* 57E006F7 48000008
+* 57E0077B 00000000
+* C277d0cc 00000003
+* 7C600774 2C000005
+* 41A00008 3803FFFB
+* 2C000000 00000000
+* 0477cf8c 2C000008
+* C278250c 00000019
+* 28040060 40A200B8
+* 7F63DB78 38800000
+* 3D808078 398C22E0
+* 7D8903A6 4E800421
+* 80030000 2C000000
+* 41A2000C 38600001
+* 4800007C 83A30004
+* 807C00D8 8063006C
+* 80630020 7C7B1B78
+* 81830000 818C0018
+* 7D8903A6 4E800421
+* 7C7F1B78 3BC00000
+* 48000040 819B0010
+* 387B0010 7FC4F378
+* 818C0010 7D8903A6
+* 4E800421 80030008
+* 7C1D0000 40A20018
+* 80630000 8063000C
+* 7C600034 5403D97E
+* 48000014 3BDE0001
+* 7C1EF800 4180FFC0
+* 38600001 3D808078
+* 398C54B4 7D8903A6
+* 4E800420 2804004C
+* 60000000 00000000
+
+###################################################################################################################
+[Legacy TE] Hold Z for AltZ Characters, R for AltR Characters V2 [PyotrLuzhin, codes, ASF1nk, Yohan1044, DukeItOut]
+###################################################################################################################
+.macro sqAdvCheck()
+{
+	lis r12, 0x805B			# \
+	lwz r12, 0x50AC(r12)	# | Retrieve the game mode name
+	lwz r12, 0x10(r12)		# |
+	lwz r12, 0x0(r12)		# /
+	lis r3, 0x8070;	ori r3, r3, 0x2B60;	cmpw r3, r12;	# Skip the Dark/Fake check if this is "sqAdventure"
+}
+.macro AltCos(<arg1>)	// The argument is the address for the port
+{	
+	* 4A000000 <arg1>
+	* 300436F8 00000001
+	* 1000009D 0000003E
+	* E2100000 00000000
+	* 300436F8 00000002
+	* 1000009D 0000003D
+	* E0000000 80008000		# .RESET
+}
+
+HOOK @ $8068478C
+{
+  stw r9,  0x18(r2)
+  stw r10, 0x1C(r2)
+  mr r29, r3
+  lwz r0, 0x1B4(r24);  cmpwi r0, 0x0;   beq- loc_0x74
+  lwz r0, 0x1DC(r24);  cmpwi r0, 0x0;   blt- loc_0x88
+					   cmpwi r0, 0xF0;  beq- loc_0x74
+  li r9, 0x1
+  lis r3, 0x805A
+  lhz r10, 0x3A(r3)
+  slw r9, r9, r0
+  and. r10, r9, r10;  bne- loc_0x74
+  lwz r3, 0x40(r3)
+  rlwinm r10, r0, 6, 0, 25
+  add r3, r3, r10
+  lbz r0, 0x27C(r3)
+  lwz r3, 0x244(r3);  extsb. r0, r0;  bne- loc_0x74
+  li r0, 0x10;      and. r0, r3, r0;  beq- loc_0x74
+  
+  li r3, 0x1;  b loc_0x8C
+loc_0x74:
+  li r0, 0x20;  and. r0, r3, r0;  beq- loc_0x88
+  li r3, 0x2;  b loc_0x8C
+loc_0x88:
+  li r3, 0x0
+
+loc_0x8C:
+  lis r15, 0x4
+  ori r15, r15, 0x3AD8
+  stwx r3, r15, r20
+  lwz r9,  0x18(r2)
+  lwz r10, 0x1C(r2)
+  mr r3, r29
+}
+
+* 60000000 00000000		# BA = Next Code
+%AltCos(90180F20)		# \
+%AltCos(90180F7C)		# | Done for each character port
+%AltCos(90180FD8)		# |
+%AltCos(90181034)		# /
+
+HOOK @ $8084CEE0
+{
+  %sqAdvCheck()
+  bne+ notSSE  # if unequal, it can't be SSE
+  cmplwi r23, 12;  b %END%	# is it Dark?
+notSSE:
+  cmplwi r23, 62			# is it AltZ?
+}
+HOOK @ $8084CF64
+{
+  %sqAdvCheck()
+  bne+ notSSE  # if unequal, it can't be SSE
+  cmplwi r23, 13;  b %END%	# is it Fake?
+notSSE:
+  cmplwi r23, 61			# is it AltR?
+}
+word[4] 0x4800001C, 0x416C7452, 0x00416C74, 0x5A000000 @ $8084CF38 # b 0x1C, "AltR", "AltZ"
+op b 0x1C @ $8084CFBC
+HOOK @ $8084CF54
+{
+  addi r4, r29, 0xAC0
+  cmplwi r23, 62;  bne- %END%			// Check if it's AltZ 
+  lis r6, 0x8084;  ori r6, r6, 0xCF41	// If it is, get a pointer to the string "AltZ" 
+}
+HOOK @ $8084CFD8
+{
+  addi r4, r29, 0xAC0
+  cmplwi r23, 61;  bne- %END%			// Check if it's AltR
+  lis r6, 0x8084;  ori r6, r6, 0xCF3C	// If it is, get a pointer to the string "AltR"
+}
+HOOK @ $8084CDDC
+{
+  %sqAdvCheck()
+  bne+ notSSE  # if unequal, it can't be SSE
+  cmplwi r23, 12;  b firstCheck	# check if it's Dark
+notSSE:
+  cmplwi r23, 61	# is it AltR?
+firstCheck:
+  beq- %END%
+  cmplwi r23, 62	# is it AltZ?
+}
+op b 0x1C @ $8084CE34
+HOOK @ $8084CE50
+{
+  addi r4, r29, 0xAC0
+  cmplwi r23, 61;  beq- AltR
+  cmplwi r23, 62;  bne+ %END%
+AltZ:  
+  lis r6, 0x8084;  ori r6, r6, 0xCF41;  b %END%	// Load the string "AltZ"
+AltR:
+  lis r6, 0x8084;  ori r6, r6, 0xCF3C			// Load the string "AltR"
+}
+
+########################################################################
+[Legacy TE] Dark/Fake Kirby Fix v2.3 [PyotrLuzhin, Yohan1044, DukeItOut, Eon]
+########################################################################
+HOOK @ $8084DF28
+{
+  addi r6, r1, 0x20		# original operation
+  cmpwi r23, 62;  beq- AltZKirby
+  cmpwi r23, 61;  beq- AltRKirby
+  b %END%
+AltZKirby:
+  li r10, 0x5F5A;  b loc_0x24	# point to the "AltZ" string
+AltRKirby:
+  li r10, 0x5F52				# point to the "AltR" string
+loc_0x24:
+  sth r10, 0(r6)
+}
+HOOK @ $8084DE44
+{
+  lis r5, 0x805B     	# \
+  lwz r5, 0x50AC(r5)  # | Retrieve the game mode name
+  lwz r5, 0x10(r5)    # |
+  lwz r5, 0x4(r5)     # |
+  lwz r5, 0x15(r5)    # / And grab the 2nd-through-5th characters in the string (string starts at 0x14)
+  lis r6, 0x7141      	# \
+  ori r6, r6, 0x6476    # / "qAdv", as in "sqAdventure"
+  cmpw r5, r6
+  bne skip
+#Dont load kirby Hat for costume 12
+  cmpwi r8, 12
+  b %end%
+skip:
+#Always load kirby hat
+  cmpwi r8, -1
+  
+}
+
+##############################################
+[Legacy TE] Dark/Fake Solo Mode Fix [Fracture]
+##############################################
+HOOK @ $806CBFA8
+{
+  lis r4, 0x4;  ori r4, r4, 0x3A7C	// r4 = 0x43A7C
+  lis r3, 0x805A;  lwz r3, 0xE0(r3);  lwz r3, 0x10(r3)
+  add r3, r3, r4
+  li r4, 0x0
+  li r5, 0x0
+  cmpwi r5, 0x4;  bge- skip
+seekLoop:
+  stwu r4, 92(r3)
+  addi r5, r5, 0x1
+  cmpwi r5, 0x4;  blt+ seekLoop
+skip:
+  li r0, 0x5
+}
+
+Disable Time Limit On VC Games - brkirch
+* F6000001 80008010
+* 2C1F0001 4082009C
+* 30000004 4082009C
+* C0000000 00000006
+* 82EF0024 830F0028
+* 92EF0038 930F003C
+* 92EF0060 930F0064
+* 92EF0088 930F008C
+* 4E800020 F6000001
+* 80008010 00000000
+* E2100000 00000000
+* F6000001 80008010
+* 41820028 38610088
+* 30000000 41820028
+* 14000000 48000028
+* E2100001 00000000
+* F6000001 80008010
+* 418200A4 48000080
+* 30000028 4182000C
+* 14000028 4800000C
+* E2100001 00000000
+* F6000001 80008010
+* 913E0130 913E0134
+* 30000050 41800028
+* 14000050 48000028
+
+#########################
+Unrestricted Pause Camera
+#########################
+op blr 		@ $800A7D60
+op li r4, 1	@ $80109D88
+
+##########################
+Unrestricted Replay Camera
+##########################
+op NOP 		@ $8009E934
+op NOP 		@ $8009E93C
+op fmr f1, f3	@ $8009E9AC
+op fmr f3, f0	@ $8009E9B8
+op fmr f0, f1	@ $8009E9BC
+op fmr f0, f3	@ $8009E9C8

@@ -1,0 +1,27 @@
+SD Root=/brawls3c/
+Brawl3C File Patch
+[Legacy TE] sc_selmap.pac can be 3 times larger because I said so V2 [DukeItOut]
+[Legacy TE] Always use PACs instead of PCS files [DukeItOut]
+Default Settings Modifier stock mode
+ time 8
+ stock 3
+ etc.
+[Legacy TE] Boot Directly to CSS v4  [PyotrLuzhin]
+[Legacy TE] Masquerade Costume Flags V2 [ds22, DukeItOut]
+[Legacy TE] Set Masquerade Costume Count to Zero to have up to 50 costumes v1.1 [DukeItOut]
+[Brawl-Themed P+] Stage Select Screen Supports 50CC [QuickLava]
+[Legacy TE] Upload Character Masquerade Data At Startup [DukeItOut]
+Costume PAC files can be compressed V2 [DukeItOut]
+Character Costumes are decompressed in the Network Heap [Kapedani, DukeItOut]
+Bowser and Giga Bowser Can Be Compressed [DukeItOut]
+[Legacy TE] Team Glow CSS Toggle [PyotrLuzhin, Fracture, Yohan1044]
+[Legacy TE] CSS keeps character choice for inactive ports between matches [Fracture]
+[Legacy TE] Hold L/R to inc/dec 1/4 of a character's costume count on the CSS [DukeItOut]
+[Legacy TE] Default CPU level is 9 v2 [codes]
+[Project+] Independent Subroutines [Mawootad]
+[Legacy TE] Hold Z for AltZ Characters, R for AltR Characters V2 [PyotrLuzhin, codes, ASF1nk, Yohan1044, DukeItOut]
+[Legacy TE] Dark/Fake Kirby Fix v2.3 [PyotrLuzhin, Yohan1044, DukeItOut, Eon]
+[Legacy TE] Dark/Fake Solo Mode Fix [Fracture]
+Disable Time Limit On VC Games - brkirch
+Unrestricted Pause Camera
+Unrestricted Replay Camera
