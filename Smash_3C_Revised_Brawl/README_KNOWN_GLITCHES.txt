@@ -8,4 +8,4 @@ Pokemon Trainer Final Smash will have the Pokemon revert to default look for cos
 
 When unlocking characters, the AltR hidden costume may be used over the default.
 
-All Star mode is crashing.
+All Star mode may crash.
