@@ -1,5 +1,7 @@
-Make pato in selchar
+Make pato in selchar, then export out unsaved
 
 Selmap pato is in MiscData20
 
 Make sure to rename the "playericon1M" parts in each pato with each player
+
+Selmap stocks in MiscData40

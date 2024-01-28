@@ -1,0 +1,5 @@
+STGHEAL has CI8 CSS icons
+
+STGRESULT has MiscData120 stock icons
+
+Pat0 is in MiscData110
