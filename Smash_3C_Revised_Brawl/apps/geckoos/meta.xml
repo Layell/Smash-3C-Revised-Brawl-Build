@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1.0">
+		<name>Smash 3C</name>
+		<coder>Legacy Team</coder>
+		<version>vBrawl</version>
+		<release_date>201608192105</release_date>
+		<short_description>Smash 3C Launcher</short_description>
+		<long_description>This is the Smash 3C launcher for Brawl</long_description>
+	</app>
